@@ -23,11 +23,5 @@ public class MyActivity extends Activity {
                 Toast.makeText(getApplicationContext(),"Merhaba Android", Toast.LENGTH_LONG).show();
             }
         });
-
-
-
-
-
-
     }
 }
